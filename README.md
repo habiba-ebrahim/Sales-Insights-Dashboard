@@ -24,6 +24,8 @@ delivery metrics, and payment channels.
 
 1️⃣ Executive Overview Page
 
+<img width="1095" height="621" alt="Page 2" src="https://github.com/user-attachments/assets/54e20199-41f3-4751-a01f-30a0dfecc36c" />
+
 Focuses on strategic executive metrics and overall business health.
 
 Key Performance Indicators (KPIs):
@@ -66,6 +68,8 @@ Branch Map: Geospatial mapping of branch locations and regional
 revenue concentrations.
 
 2️⃣ Products & Customers Page
+<img width="1191" height="675" alt="Page 3" src="https://github.com/user-attachments/assets/79562bd9-f3ea-4d54-84d9-5773f22e2c48" />
+
 
 Analyzes product catalog demand, inventory performance, and customer
 purchasing behaviors.
@@ -117,6 +121,8 @@ $696.865K, Aya Mansour: $638.466K, Aya Fouad: $634.256K,
 Jihan Ezzat: $629.397K).
 
 3️⃣ Branches & Team Page
+<img width="1185" height="677" alt="page 4" src="https://github.com/user-attachments/assets/aae01001-6ff8-4bfe-a1e0-814776505643" />
+
 
 Monitors sales representative performance, operational target tracking,
 and order fulfillment metrics.
